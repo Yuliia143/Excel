@@ -9,5 +9,6 @@
   "rules": {
     "arrow-parens": "off",
     "require-jsdoc": "off",
+    "linebreak-style": 0
   }
 }
